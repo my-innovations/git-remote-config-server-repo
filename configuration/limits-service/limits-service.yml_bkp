@@ -1,0 +1,6 @@
+limits-service:
+	minimum: 1
+	maximum: 101
+#management: 
+	security:
+		enabled: false
